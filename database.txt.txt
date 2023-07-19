@@ -1,0 +1,5 @@
+         Name      RollNo.        Class      Contact      Address
+
+       Pritam           50            5   6290587477       Nobody
+      Bhaskar           60            6   9830621035      Barasat
+       Kanika           70            7   9999999999     BariGhor
